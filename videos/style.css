@@ -1,0 +1,21 @@
+.button-videos {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(0, 128, 0, 1);
+    color: white;
+    border: solid 1px black;
+    /* text-decoration: underline 1px ; */
+    text-underline-offset: 2px;
+}
+
+.button-videos:hover {
+    background-color: rgba(0, 128, 0, 1);
+    color: white;
+    border: solid 1px black;
+    text-decoration: underline 1px ;
+    text-underline-offset: 2px;
+    margin-bottom: 20px;
+
+}
